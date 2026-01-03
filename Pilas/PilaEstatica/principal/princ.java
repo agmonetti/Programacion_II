@@ -109,11 +109,11 @@ public class princ {
 		System.out.println();
 		mostrarPilaClean(pila);
 		System.out.println();
-		System.out.println("pila2: ");
+		System.out.println("pila: ");
 		mostrarPilaClean(copiaPila);
 		
 		System.out.println();
-		System.out.println("Ahora queremos invertir la pila 2 (pila copiada): ");
+		System.out.println("Ahora queremos invertir la pila  (pila copiada): ");
 		pilaTDA pilaInvertida = invertirPila(copiaPila);
 		System.out.println();
 		System.out.println("pila invertida: ");
