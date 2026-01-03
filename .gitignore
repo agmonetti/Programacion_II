@@ -1,3 +1,7 @@
 /.idea
 .idea
 /bin/
+# Eclipse
+.project
+.classpath
+.settings/
