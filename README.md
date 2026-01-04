@@ -4,8 +4,11 @@ Este repositorio contiene ejercicios de la materia **Programación 2**, desarrol
 
 Se trabajan **estructuras de datos** de forma **estática y dinámica**, incluyendo pilas, colas y grafos.
 
-## Pilas
-- **FIFO**: First In - First Out, el ultimo en entrar es el primer en salir y viceversa. 
+## Pilas - Stack
+- **LIFO**: Last In - First Out, el ultimo en entrar es el primero en salir y viceversa.
+
+## Colas - Queue
+- **FIFO**: First In - First Out, el primero en entrar es el primero en salir y viceversa. 
 
 ## Contacto
 
