@@ -10,6 +10,9 @@ Se trabajan **estructuras de datos** de forma **estática y dinámica**, incluye
 ## Colas - Queue
 - **FIFO**: First In - First Out, el primero en entrar es el primero en salir y viceversa. 
 
+## Conjuntos - Set
+- **Sin Orden**: Colección no ordenada de elementos únicos. Si se agrega un elemento que ya existe, el conjunto no cambia.
+  
 ## Contacto
 
 - **Autor**: Agustin Monetti
