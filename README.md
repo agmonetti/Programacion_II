@@ -12,6 +12,11 @@ Se trabajan **estructuras de datos** de forma **estática y dinámica**, incluye
 
 ## Conjuntos - Set
 - **Sin Orden**: Colección no ordenada de elementos únicos. Si se agrega un elemento que ya existe, el conjunto no cambia.
+
+## Diccionarios - Dictionary
+- **Clave - Valor**: Estructura de datos con valores asociados a claves.
+  - **Simples**: Cada clave puede tener un unico valor.
+  - **Multiples**: Cada clave tiene asociado un conjunto de valores
   
 ## Contacto
 
