@@ -17,7 +17,14 @@ Se trabajan **estructuras de datos** de forma **estática y dinámica**, incluye
 - **Clave - Valor**: Estructura de datos con valores asociados a claves.
   - **Simples**: Cada clave puede tener un unico valor.
   - **Multiples**: Cada clave tiene asociado un conjunto de valores
-  
+ 
+## Arboles ABB - Binary Search Trees
+- **Elementos Únicos**: No permite elementos repeditos, ademas, todos los elementos de su sub-arbol (nodo) izq son menores y todos los elementos de su sub-arbol derecho son mayores. Formas de recorrerlos:
+  - **Pre-orden:** Raíz ➤ Izquierda ➤ Derecha. (Primero visito, luego bajo).
+  - **In-orden:** Izquierda ➤ Raíz ➤ Derecha. (Saca los datos **ordenados** de menor a mayor).
+  - **Post-orden:** Izquierda ➤ Derecha ➤ Raíz. (Visita los hijos antes que al padre).
+
+
 ## Contacto
 
 - **Autor**: Agustin Monetti
