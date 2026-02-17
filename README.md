@@ -24,6 +24,8 @@ Se trabajan **estructuras de datos** de forma **estática y dinámica**, incluye
   - **In-orden:** Izquierda ➤ Raíz ➤ Derecha. (Saca los datos **ordenados** de menor a mayor).
   - **Post-orden:** Izquierda ➤ Derecha ➤ Raíz. (Visita los hijos antes que al padre).
 
+## Grafos - Graphs
+- Coleccion de **nodos o vertices** unidos por **aristas**
 
 ## Contacto
 
